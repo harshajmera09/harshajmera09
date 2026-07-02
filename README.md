@@ -20,8 +20,7 @@ A delivery optimization system developed in **C++** using greedy algorithms to o
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=harshajmera09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=harshajmera09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=harshajmera09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=harshajmera09&theme=dark&hide_border=false)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
